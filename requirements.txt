@@ -1,0 +1,13 @@
+pytesseract
+opencv-python
+Pillow
+numpy
+openai
+streamlit
+scikit-learn
+pandas
+joblib
+matplotlib
+seaborn
+lightgbm
+xgboost
