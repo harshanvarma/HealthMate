@@ -1,6 +1,6 @@
-# AI-Powered Nutrition and Mental Health Companion  
+# Diet Monitoring System
 
-A full-stack web application designed to assist users with nutrition tracking and mental health support through advanced AI and data science.  
+A full-stack web application designed to assist users with nutrition tracking through advanced AI and data science.  
 
 
 
@@ -12,7 +12,14 @@ A full-stack web application designed to assist users with nutrition tracking an
 
 ### Nutrition Tracking  
 - Store and manage users' nutritional data in **MongoDB**.  
-- Retrieve past records to gain insights and track nutritional habits over time.  
+- Retrieve past records to gain insights and track nutritional habits over time.
+
+### Food recommendations
+- Integrated a feature where the food recommendations will be generated based on the users dietary needs
+
+### Potential deficiencies
+- Potential deficiencies and diseases will be tracked
+- Provides Dietary suggestions to tackle them
 
 ### Mental Health Chatbot  
 - Built a compassionate chatbot powered by **OpenAI GPT-4** to:  
